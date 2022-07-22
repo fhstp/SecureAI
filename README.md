@@ -16,7 +16,7 @@ or use the following Bib-Tex:
   organization={IEEE}
 }
 
-As we strive to enhance this guide for future use, as well as adopt any changes in technology and/or legislation, we are very happy for feedback on the procurement guide. Please contact us via email, either using one of our author's email addresses, or secureAI@fhstp.ac.at.
+As we strive to enhance this guide for future use, as well as adopt any changes in technology and/or legislation, we are very happy for feedback on the procurement guide. Please contact us via email, either using one of our author's email addresses, or secureAI(at)fhstp.ac.at.
 
 Thank you and best regards,
 the authors
